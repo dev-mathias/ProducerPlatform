@@ -1,0 +1,9 @@
+﻿CREATE FUNCTION [dbo].[Hash]
+(
+	@saltedPwd NVARCHAR(max)
+)
+RETURNS BINARY(64)
+AS
+BEGIN
+	RETURN  HASHBYTES('SHA2_512',@saltedPwd)
+END

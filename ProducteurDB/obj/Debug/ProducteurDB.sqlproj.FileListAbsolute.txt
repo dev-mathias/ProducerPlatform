@@ -1,0 +1,10 @@
+C:\Users\dewal\source\repos\ProducteurPlateformeAPI\ProducteurDB\bin\Debug\ProducteurDB.dacpac
+C:\Users\dewal\source\repos\ProducteurPlateformeAPI\ProducteurDB\bin\Debug\ProducteurDB.dll
+C:\Users\dewal\source\repos\ProducteurPlateformeAPI\ProducteurDB\bin\Debug\ProducteurDB.pdb
+C:\Users\dewal\source\repos\ProducteurPlateformeAPI\ProducteurDB\obj\Debug\ProducteurDB.sqlproj.AssemblyReference.cache
+C:\Users\dewal\source\repos\ProducteurPlateformeAPI\ProducteurDB\obj\Debug\ProducteurDB.dll
+C:\Users\dewal\source\repos\ProducteurPlateformeAPI\ProducteurDB\obj\Debug\ProducteurDB.pdb
+C:\Users\dewal\source\repos\ProducteurPlateformeAPI\ProducteurDB\obj\Debug\Model.xml
+C:\Users\dewal\source\repos\ProducteurPlateformeAPI\ProducteurDB\obj\Debug\refactor.xml
+C:\Users\dewal\source\repos\ProducteurPlateformeAPI\ProducteurDB\obj\Debug\postdeploy.sql
+C:\Users\dewal\source\repos\ProducteurPlateformeAPI\ProducteurDB\obj\Debug\predeploy.sql

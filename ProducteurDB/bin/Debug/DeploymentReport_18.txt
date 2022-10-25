@@ -1,0 +1,47 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Address] (Table)
+       [dbo].[Customer] (Table)
+       [dbo].[Producer] (Table)
+       [dbo].[Product] (Table)
+       [dbo].[Purchase] (Table)
+       [dbo].[FK_Customer_Address] (Clé étrangère)
+       [dbo].[FK_Producer_Address] (Clé étrangère)
+       [dbo].[FK_Produit_Producteur] (Clé étrangère)
+       [dbo].[FK_Purchase_ToCustomer] (Clé étrangère)
+       [dbo].[FK_Purchase_ToProduct] (Clé étrangère)
+       [dbo].[Hash] (Fonction)
+       [dbo].[Salt] (Fonction)
+       [dbo].[checkCustomer] (Procédure)
+       [dbo].[checkProducer] (Procédure)
+       [dbo].[CreateAdress] (Procédure)
+       [dbo].[CreateCustomer] (Procédure)
+       [dbo].[CreateProducer] (Procédure)
+       [dbo].[CreateProduct] (Procédure)
+       [dbo].[CreatePurchase] (Procédure)
+       [dbo].[DeleteProduct] (Procédure)
+       [dbo].[GetAddressByCustomer] (Procédure)
+       [dbo].[GetAddressByProducer] (Procédure)
+       [dbo].[GetAdressById] (Procédure)
+       [dbo].[GetCustomerById] (Procédure)
+       [dbo].[GetCustomerByPurchase] (Procédure)
+       [dbo].[GetProducerById] (Procédure)
+       [dbo].[GetProducerByProduct] (Procédure)
+       [dbo].[GetProductById] (Procédure)
+       [dbo].[GetProductByPurchase] (Procédure)
+       [dbo].[GetProducters] (Procédure)
+       [dbo].[GetProducts] (Procédure)
+       [dbo].[GetPurchaseById] (Procédure)
+       [dbo].[UpdateProduct] (Procédure)
+
+** Actions de support
